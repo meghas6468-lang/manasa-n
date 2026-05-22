@@ -81,7 +81,7 @@ maharani cluster university
 
 <p align="left">
 
-<a href="https://github.com/Manasa N0713">
+<a href="https://github.com/ManasaN0713">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
